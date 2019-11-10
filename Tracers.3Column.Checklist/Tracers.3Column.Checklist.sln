@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracers.3Column.Checklist", "Tracers.3Column.Checklist\Tracers.3Column.Checklist.csproj", "{3EADAD48-2124-408D-8FF2-9C89248F170D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EADAD48-2124-408D-8FF2-9C89248F170D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EADAD48-2124-408D-8FF2-9C89248F170D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EADAD48-2124-408D-8FF2-9C89248F170D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EADAD48-2124-408D-8FF2-9C89248F170D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAE06C8-8E37-45CF-9A54-6B5B981A52DE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://thisdotnetlife.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Tracers.3Column.Checklist\\Tracers.3Column.Checklist.csproj
+		SccProjectName1 = Tracers.3Column.Checklist
+		SccLocalPath1 = Tracers.3Column.Checklist
+	EndGlobalSection
+EndGlobal
